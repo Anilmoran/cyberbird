@@ -60,9 +60,6 @@ müzik çalışma anında kod tarafından üretilir.
 Unity Hub üzerinden **6000.4.5f1** ile açılır; scriptler derlendikten sonra animasyon,
 prefab ve katalog otomatik üretilir. Tetiklenmezse `Tools > Cyber Birds > Oyuna Bagla`.
 
-## Ekran görüntüleri
-
-## Ekran görüntüleri
 
 ## Ekran görüntüleri
 
