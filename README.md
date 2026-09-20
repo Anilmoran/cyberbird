@@ -5,7 +5,9 @@ müzik çalışma anında kod tarafından üretilir.
 
 | Ana menü | Oyun |
 |---|---|
-| <img src="docs/menu.png" width="300"> | <img src="docs/gameplay.png" width="300"> |
+<img width="492" height="880" alt="Ekran görüntüsü 2026-09-20 043000" src="https://github.com/user-attachments/assets/1091f125-c4bb-436b-9afc-49c8f643025a" />
+<img width="487" height="877" alt="Ekran görüntüsü 2026-09-20 042853" src="https://github.com/user-attachments/assets/1976b8c0-7039-4153-aaf5-a63d4cf40006" />
+
 
 ## Teknik özet
 
