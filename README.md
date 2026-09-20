@@ -63,7 +63,7 @@ prefab ve katalog otomatik üretilir. Tetiklenmezse `Tools > Cyber Birds > Oyuna
 ## Ekran görüntüleri
 
 <p align="center">
-  <img src="ANA_MENU_LINKI" width="180">
-  <img src="OYUN_LINKI" width="180">
-</p><img width="492" height="880" alt="Ekran görüntüsü 2026-09-20 043000" src="https://github.com/user-attachments/assets/55910689-b6a8-4d9a-b830-0e9196c0aa7b" />
-<img width="487" height="877" alt="Ekran görüntüsü 2026-09-20 042853" src="https://github.com/user-attachments/assets/0a9c5e09-9788-4d59-a4c9-100365e84a1c" />
+  <img src="https://github.com/user-attachments/assets/0a9c5e09-9788-4d59-a4c9-100365e84a1c" width="180">
+  <img src="https://github.com/user-attachments/assets/55910689-b6a8-4d9a-b830-0e9196c0aa7b" width="180">
+</p><img width="492" height="880" alt="Ekran görüntüsü 2026-09-20 043000" src="https://github.com/user-attachments/assets/f5a93e96-97f8-4afb-8346-9b5f63e4df06" />
+<img width="487" height="877" alt="Ekran görüntüsü 2026-09-20 042853" src="https://github.com/user-attachments/assets/ebae30d5-074c-4800-9bc7-3865901cfbda" />
